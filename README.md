@@ -3,8 +3,8 @@
 For the write readme exerice, I would like to use markdown syntax.
 ## Table of Contents
 
-- [About Us](#About Us)
-- [Contact Us](#Contact Us)
+- [About_Us](#About Us)
+- [Contact_Us](#Contact Us)
 - [Products](#Products)
 - [Usage](#usage)
 
